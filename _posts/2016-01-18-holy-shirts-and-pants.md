@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T19:51:27.874Z'
-dateModified: '2016-01-18T19:50:34.258Z'
+datePublished: '2016-01-18T20:01:33.859Z'
+dateModified: '2016-01-18T20:01:28.929Z'
 title: "\_ \_ \_ \_ \_ \_ Holy Shirts & Pants"
 author: []
+sourcePath: _posts/2016-01-18-holy-shirts-and-pants.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-holy-shirts-and-pants.md
-published: true
 url: holy-shirts-and-pants/index.html
 _type: Article
 
