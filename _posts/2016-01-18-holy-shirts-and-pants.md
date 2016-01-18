@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-18T20:01:34.314Z'
-dateModified: '2016-01-18T20:01:28.929Z'
+datePublished: '2016-01-18T20:01:44.510Z'
+dateModified: '2016-01-18T20:01:42.234Z'
 title: "\_ \_ \_ \_ \_ \_ Holy Shirts & Pants"
 author: []
 sourcePath: _posts/2016-01-18-holy-shirts-and-pants.md
