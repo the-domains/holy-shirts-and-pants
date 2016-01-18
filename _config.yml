@@ -1,7 +1,7 @@
 name: 'Holy Shirts & Pants'
 favicon: null
-layout_spectrum: 0.8316256534308195
-typography_spectrum: 0.45051423902623355
+layout_spectrum: 1
+typography_spectrum: 0.20186
 title: A Chelsea Grande Production
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.22730326047167182
-  lightness: 0.48572179512120783
-  saturation: 0.5842444626614451
-  rhythmicContrast: 0.021921305917203426
+  brandStrength: 0.75
+  lightness: 0.4375
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
