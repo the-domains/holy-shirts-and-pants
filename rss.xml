@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Holy Shirts & Pants]]></title>
-        <description><![CDATA[Holy Shirts & Pants]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[A Chelsea Grande Production]]></title>
+        <description><![CDATA[A Chelsea Grande Production]]></description>
+        <link>https://thegrid.ai/holy-shirts-and-pants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 19:51:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 20:01:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/holy-shirts-and-pants/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[            Holy Shirts & Pants]]></title>
             <description><![CDATA[<article><h1>            Holy Shirts & Pants</h1><p>                                                                            Chelsea Grande</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd24007c13552a8255b20ab0159ad1685ac96615.jpg"></article>]]></description>
-            <link>undefinedholy-shirts-and-pants/index.html</link>
+            <link>https://thegrid.ai/holy-shirts-and-pants/holy-shirts-and-pants/index.html</link>
             <guid isPermaLink="false">ad151f7c-da9b-40dd-bd97-152bf2792b00</guid>
-            <pubDate>Mon, 18 Jan 2016 19:51:27 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 20:01:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
